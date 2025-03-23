@@ -24,3 +24,8 @@ psygnal
 click
 pdf2image
 uvloop
+pyside6 
+darkdetect 
+PyQt6-Framless-window 
+PyQt6
+numpy
